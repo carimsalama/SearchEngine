@@ -1,5 +1,5 @@
 # SearchEngine
-#Information Retrival 
+# Information Retrieval
 Tokenization is the process of breaking a piece of text into smaller units called tokens. These tokens can be individual words, phrases, or other meaningful units of text. Tokenization is an important step in natural language processing (NLP) tasks, as it allows the text to be more easily analyzed and processed.
 
 A positional index is a type of index in which the position of a token in a document is recorded in the index. This can be useful for tasks such as information retrieval, where the position of a token in a document may be relevant to the search query.
